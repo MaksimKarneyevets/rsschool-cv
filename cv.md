@@ -26,6 +26,6 @@
 	</HTML>
   ```
 
-* No experience.
+* No experience in programming.
 * University degree in design of radio-electronic facilities, BSUIR.
 * B1 level of English.
